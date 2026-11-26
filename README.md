@@ -93,6 +93,6 @@ Open **`http://127.0.0.1:8000/docs`** in your browser to test all endpoints inte
 ## Tech Stack
 
 * **Backend:** Python, FastAPI, Uvicorn
-* **AI / LLM:** Google GenAI SDK (`gemini-2.5-flash`)
+* **AI / LLM:** Google GenAI SDK (`gemini-3.5-flash-lite`)
 * **Validation:** Pydantic v2
 * **Email Ingestion:** Python `imaplib` & `email` (MIME parser)
